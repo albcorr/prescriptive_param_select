@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Corredera"
+  given-names: "Alberto"
+  orcid: "https://orcid.org/0000-0002-3002-1940"
+title: "prescriptive_param_select"
+version: 1.0.0
+date-released: 2022-09-28
+url: "https://github.com/albcorr/prescriptive_param_select"
