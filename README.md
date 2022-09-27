@@ -12,9 +12,9 @@ If you use this code, you can cite it in you work as:
 
 ```
 @misc{ACorredera_pres_val,
-    author = "Corredera, Alberto",
-    title = "Prescripte\_HP\_Selection:Power Retailer",
-    year = 2022,
-    url = "https://github.com/albcorr/prescriptive_param_select"
+    author = {Corredera, Alberto},
+    title = {Prescriptive Parameter Selection: Power Retailer},
+    year = {2022},
+    url = {https://github.com/albcorr/prescriptive_param_select}
   }
 ```
